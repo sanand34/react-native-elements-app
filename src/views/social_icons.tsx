@@ -100,6 +100,10 @@ const dataList: Partial<IconData>[] = [
   {
     type: 'whatsapp',
   },
+  {
+    type: 'reddit',
+    
+  },
 ];
 
 type SocialIconsComponentProps = {};
